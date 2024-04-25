@@ -274,7 +274,7 @@ figure.fig figcaption {
   right: 0;
   z-index: 1;
   padding: 30px;
-  background-color: #00BCD4;
+  background-color: #6e7071d0;
   border: 4px solid rgba(255, 255, 255, 0.05);
   -webkit-transform: rotate(90deg);
   transform: rotate(90deg);
@@ -284,7 +284,7 @@ figure.fig figcaption {
 }
 
 a {
-  color: #f5eeee;
+  color: #65965e;
   text-decoration: none;
 }
 
